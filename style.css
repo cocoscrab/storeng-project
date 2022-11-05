@@ -1,0 +1,363 @@
+
+.list {
+    list-style: none;
+}
+
+body {
+    background-color: #F5F5F5;
+    list-style: none;
+}
+
+.logo {
+    position: absolute;
+    width: 220px;
+    height: 300px;
+    left: 40px;
+    top: 40px;
+
+    background: rgba(87, 154, 255, 0.5);
+    mix-blend-mode: normal;
+    backdrop-filter: blur(2px);
+}
+
+.name {
+    position: absolute;
+    width: 900px;
+    height: 100px;
+    left: 400px;
+    top: 50px;
+}
+
+.first {
+    position: absolute;
+    width: 1020px;
+    height: 43px;
+    left: 350px;
+    top: 152px;
+
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 77px;
+    text-align: center;
+
+    color: #000000;
+
+}
+
+.uslugi {
+    position: absolute;
+    width: 250px;
+    height: 60px;
+    left: 350px;
+    top: 265px;
+
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 77px;
+    text-align: center;
+
+    color: #000000;
+
+    position: absolute;
+    width: 236px;
+    height: 88px;
+
+    background: rgba(87, 154, 255, 0.1);
+}
+
+.system {
+    position: absolute;
+    width: 250px;
+    height: 60px;
+    left: 690px;
+    top: 265px;
+
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 77px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.company {
+    position: absolute;
+    width: 339px;
+    height: 63px;
+    left: 1020px;
+    top: 265px;
+
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 77px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.uslugi-top {
+    position: absolute;
+    width: 629px;
+    height: 86px;
+    left: 420px;
+    top: 442px;
+    
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 96px;
+    text-align: center;
+    
+    color: #000000;
+}
+
+.uslugi-1 {
+    position: absolute;
+    width: 263px;
+    height: 173px;
+    left: 31px;
+    top: 540px;
+
+    background: rgba(244, 244, 244, 0.5);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+    position: absolute;
+    width: 236px;
+    height: 74px;
+
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 38px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.uslugi-2 {
+    position: absolute;
+    width: 263px;
+    height: 173px;
+    left: 312px;
+    top: 540px;
+
+    background: rgba(244, 244, 244, 0.5);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+    position: absolute;
+    width: 236px;
+    height: 74px;
+
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 38px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.uslugi-3 {
+    position: absolute;
+    width: 263px;
+    height: 173px;
+    left: 593px;
+    top: 540px;
+
+    background: rgba(244, 244, 244, 0.5);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+    position: absolute;
+    width: 236px;
+    height: 74px;
+    left: 607px;
+    top: 586px;
+
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 38px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.uslugi-4 {
+    position: absolute;
+    width: 263px;
+    height: 173px;
+    left: 874px;
+    top: 540px;
+
+    background: rgba(244, 244, 244, 0.5);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+    position: absolute;
+    width: 236px;
+    height: 74px;
+    left: 888px;
+    top: 586px;
+
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 38px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.uslugi-5 {
+    position: absolute;
+    width: 263px;
+    height: 173px;
+    left: 1155px;
+    top: 540px;
+
+    background: rgba(244, 244, 244, 0.5);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+    position: absolute;
+    width: 254px;
+    height: 74px;
+    left: 1160px;
+    top: 574px;
+
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 38px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.system-first {
+    position: absolute;
+    width: 629px;
+    height: 86px;
+    left: 0px;
+    top: 961px;
+
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 96px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.spisok {
+    position: absolute;
+    width: 891px;
+    height: 516px;
+    left: 527px;
+    top: 789px;
+
+    background: rgba(87, 154, 255, 0.1);
+
+    position: absolute;
+    width: 850px;
+    height: 480px;
+    left: 571px;
+    top: 810px;
+
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 34px;
+
+    color: #000000;
+}
+
+.company-first {
+    position: absolute;
+    width: 629px;
+    height: 86px;
+    left: 371px;
+    top: 1387px;
+
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 96px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.text {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1338px;
+    height: 522px;
+    left: px;
+    top: 1481px;
+    
+    border: 5px solid rgba(0, 89, 223, 0.4);
+
+    position: absolute;
+    width: 1229px;
+    height: 493px;
+    left: 141px;
+    top: 1533px;
+
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 167%;
+
+    color: #000000;
+}
+
+.address {
+    position: absolute;
+    width: 1314px;
+    height: 244px;
+    left: 40px;
+    top: 2088px;
+
+    background: rgba(0, 89, 223, 0.05);
+
+    position: absolute;
+    width: 1315px;
+    height: 247px;
+    left: 80px;
+    top: 2124px;
+
+    background: rgba(0, 89, 223, 0.05);
+
+    position: absolute;
+    width: 1247px;
+    height: 234px;
+    left: 152px;
+    top: 2168px;
+
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 70px;
+
+    color: #000000;
+}
